@@ -1,4 +1,4 @@
-# Blindness_Detection_Image_Recognition
+# Blindness Detection Image Recognition
 
 ----
 ## Background
