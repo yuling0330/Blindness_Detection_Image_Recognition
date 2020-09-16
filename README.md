@@ -43,9 +43,8 @@ The purpose of this project is to create model that couldcorrectly classify the 
 
 ----
 ### Results:
-
-```
+- Best modeling results using EfficientNetB5
 <p align="center">
-  to be add
+  <img src="https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/final_resutls.PNG" />
+  <img src="https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/final_results2.PNG" />
 </p>
-```
